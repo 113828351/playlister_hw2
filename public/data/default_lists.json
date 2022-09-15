@@ -1,0 +1,112 @@
+{
+    "playlists": [
+        {
+            "key": "0",
+            "name": "Space Rock",
+            "likes": 2150,
+            "dislikes": 114,
+            "created": "Thu, 22 Oct 2021 01:10:53 GMT",
+            "modified": "Wed, 23 Jun 2022 03:21:31 GMT",
+            "accessed": "Thu, 26 Aug 2022 03:23:31 GMT",
+            "songs": [
+                {
+                    "title": "Across the Universe",
+                    "artist": "The Beatles",
+                    "youTubeId": "90M60PzmxEE"
+                },
+                { 
+                    "title": "Astronomy Domine", 
+                    "artist": "Pink Floyd", 
+                    "youTubeId": "8UbNbor3OqQ" 
+                },
+                {
+                    "title": "Brain Damage/Eclipse",
+                    "artist": "Pink Floyd",
+                    "youTubeId": "g1OOQP1-wOE"
+                },
+                {
+                    "title": "In the Meantime",
+                    "artist": "Spacehog",
+                    "youTubeId": "PCsGRCf8T9Y"
+                },
+                {
+                    "title": "Rocket Man",
+                    "artist": "Elton John",
+                    "youTubeId": "DtVBCG6ThDk"
+                },
+                {
+                    "title": "Set the Controls for the Heart of the Sun",
+                    "artist": "Pink Floyd",
+                    "youTubeId": "8RbXIMZmVv8"
+                },
+                {
+                    "title": "Space Oddity",
+                    "artist": "David Bowie",
+                    "youTubeId": "iYYRH4apXDo"
+                },
+                {
+                    "title": "Starless",
+                    "artist": "King Crimson",
+                    "youTubeId": "OfR6_V91fG8"
+                },
+                {
+                    "title": "The Solar System Song",
+                    "artist": "A.J. Jenkins",
+                    "youTubeId": "BZ-qLUIj_A0"
+                }
+            ]
+        },
+        {
+            "key": "1",
+            "name": "Proggy Pop",
+            "likes": 50,
+            "dislikes": 4,
+            "created": "Mon, 23 Aug 2022 03:12:53 GMT",
+            "modified": "Mon, 23 Aug 2022 03:14:31 GMT",
+            "accessed": "Mon, 23 Aug 2022 03:16:31 GMT",
+            "songs": [
+                {
+                    "title": "Have a Cigar",
+                    "artist": "Pink Floyd",
+                    "youTubeId": "tbdpv7G_PPg"
+                },
+                {
+                    "title": "In the Court of the Crimson King",
+                    "artist": "King Crimson",
+                    "youTubeId": "ukgraQ-xkp4"
+                },
+                {
+                    "title": "Roundabout",
+                    "artist": "Yes",
+                    "youTubeId": "QOrrNM4md8c"
+                },
+                {
+                    "title": "The End",
+                    "artist": "The Doors",
+                    "youTubeId": "ZeMlQEWEg2Q"
+                }
+            ]
+        },
+        {
+            "key": "2",
+            "name": "Don't be Rude",
+            "likes": 520,
+            "dislikes": 14,
+            "created": "Sun, 22 Aug 2022 03:19:53 GMT",
+            "modified": "Mon, 24 Aug 2022 03:21:31 GMT",
+            "accessed": "Wed, 26 Aug 2022 03:23:31 GMT",
+            "songs": [
+                {
+                    "title": "A Message to You Rudy",
+                    "artist": "The Specials",
+                    "youTubeId": "cntvEDbagAw"
+                },
+                {
+                    "title": "Rudy Can't Fail",
+                    "artist": "The Clash",
+                    "youTubeId": "uEK9oK02D1M"
+                }
+            ]
+        }
+    ]
+}
