@@ -16,6 +16,7 @@ export default class SidebarList extends React.Component {
                             key={pair.key}
                             keyNamePair={pair}
                             selected={(currentList !== null) && (currentList.key === pair.key)}
+                            
                             deleteListCallback={deleteListCallback}
                             loadListCallback={loadListCallback}
                             renameListCallback={renameListCallback}
